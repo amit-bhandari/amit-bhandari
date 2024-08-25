@@ -1,6 +1,6 @@
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I have received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects. Most notable project is [AB Music](https://play.google.com/store/apps/details?id=com.bhandari.music) which landed me an Android Engineer role at Allps. 
 
-Since then I have pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
+I work at [Amazon](https://www.linkedin.com/company/amazon/) | Ex [IBM](https://www.linkedin.com/company/ibm/), Ex [ALLPS](https://www.linkedin.com/company/allps-gmbh/)
 
 Most used languages across my projects:
 
