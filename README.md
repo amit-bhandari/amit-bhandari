@@ -1,6 +1,6 @@
 Joined Github **8** years ago. Since then I have received **156** stars across **16** personal projects. Most notable project is [AB Music](https://play.google.com/store/apps/details?id=com.bhandari.music) which landed me an Android Engineer role at Allps. 
 
-I work at [Amazon](https://www.linkedin.com/company/amazon/) | Ex [IBM](https://www.linkedin.com/company/ibm/), Ex [ALLPS](https://www.linkedin.com/company/allps-gmbh/)
+My [blog](https://amit-bhandari.github.io/).
 
 Most used languages across my projects:
 
