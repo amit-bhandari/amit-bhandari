@@ -1,4 +1,4 @@
-Joined Github **8** years ago. Since then I have received **159** stars across **16** personal projects. Most notable project is [AB Music](https://play.google.com/store/apps/details?id=com.bhandari.music) which landed me an Android Engineer role at Allps. 
+Joined Github **8** years ago. Since then I have received **162** stars across **16** personal projects. Most notable project is [AB Music](https://play.google.com/store/apps/details?id=com.bhandari.music) which landed me an Android Engineer role at Allps. 
 
 My [blog.](https://amit-bhandari.github.io/)
 
